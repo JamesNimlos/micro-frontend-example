@@ -1,0 +1,3 @@
+[submodule "modules/micro-fe-module-a"]
+	path = modules/micro-fe-module-a
+	url = git@github.com:JamesNimlos/micro-fe-module-a.git
